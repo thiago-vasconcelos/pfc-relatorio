@@ -1,0 +1,84 @@
+\documentclass[12pt,a4paper]{article}
+
+
+\usepackage[brazil]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx} %para a inserc~ao de imagens no formato EPS.
+\usepackage{amsfonts} 
+\usepackage{amssymb}
+\usepackage[all]{xy} %construc~ao de diagramas de setas e molduras
+\usepackage[normalem]{ulem} %habilita o sublinhado curvo nas palavras
+\usepackage{color} %para habilitar o pacote das cores
+\usepackage[utf8]{inputenc}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{placeins}
+
+\numberwithin{equation}{subsection}
+\usepackage{hyperref}
+%\usepackage[linktocpage=true]{hyperref}
+\hypersetup{ colorlinks,
+linkcolor=black,
+filecolor=black,
+urlcolor=black,
+citecolor=black }
+\definecolor{black}{rgb}{0,0,0}
+\usepackage{tikz}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=none,
+  language=Java,
+  %aboveskip=3mm,
+  %belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=left,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{black},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=2
+}
+\usepackage{alltt}
+
+
+\begin{document}
+
+\input{capa.tex}
+\input{folhaderosto.tex}
+\newpage
+\input{fichadeavaliacao.tex}
+
+\newpage
+\tableofcontents
+%\vspace{1cm}
+\listoffigures
+%\vspace{1cm} 
+%\listoftables 
+\newpage 
+
+\input{resumo.tex}
+\newpage
+\input{abstract.tex}
+\newpage
+\input{introducao.tex}
+\newpage
+\input{conceitosbasicos}
+\newpage
+\input{cronograma}
+\newpage
+\input{conclusao}
+\newpage
+\input{referencia}
+\newpage
+\begin{titlepage}
+\paragraph{}
+\end{titlepage}
+\end{document}

@@ -1,0 +1,28 @@
+\select@language {brazil}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{7}{section.1}
+\contentsline {subsection}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{7}{subsection.1.1}
+\contentsline {paragraph}{}{7}{section*.5}
+\contentsline {paragraph}{}{7}{section*.6}
+\contentsline {subsection}{\numberline {1.2}Objetivos}{7}{subsection.1.2}
+\contentsline {paragraph}{}{7}{section*.7}
+\contentsline {subsection}{\numberline {1.3}Estrutura do trabalho}{7}{subsection.1.3}
+\contentsline {paragraph}{}{7}{section*.8}
+\contentsline {paragraph}{}{7}{section*.9}
+\contentsline {paragraph}{}{8}{section*.10}
+\contentsline {paragraph}{}{8}{section*.11}
+\contentsline {section}{\numberline {2}Revis\IeC {\~a}o Te\IeC {\'o}rica}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Segmenta\IeC {\c c}\IeC {\~a}o de Imagens}{9}{subsection.2.1}
+\contentsline {section}{\numberline {3}Cronograma}{10}{section.3}
+\contentsline {paragraph}{}{10}{section*.12}
+\contentsline {paragraph}{}{10}{section*.13}
+\contentsline {paragraph}{}{10}{section*.14}
+\contentsline {paragraph}{}{10}{section*.15}
+\contentsline {section}{\numberline {4}Conclus\IeC {\~a}o}{11}{section.4}
+\contentsline {paragraph}{}{11}{section*.16}
+\contentsline {section}{\numberline {5}Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{12}{section.5}
+\contentsline {paragraph}{}{12}{section*.17}
+\contentsline {paragraph}{}{12}{section*.18}
+\contentsline {paragraph}{}{12}{section*.19}
+\contentsline {paragraph}{}{12}{section*.20}
+\contentsline {paragraph}{}{12}{section*.21}
+\contentsline {paragraph}{}{1}{section*.22}
